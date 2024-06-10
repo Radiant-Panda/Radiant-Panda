@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radiant-Panda
-- 👀 I’m interested in Frontend Web Development 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning GD Script, Python, C++
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me radiant.panda0@gmail.com
 
